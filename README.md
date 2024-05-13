@@ -8,4 +8,4 @@ Frontend code Execution:
 -First we need to import the project to VS CODE
 -open the terminal and navigate into the capestone project folder
 -Now install axios for handling HTTP Requests using command "npm install axios"
--Now install React Router and React Router DOM using command "npm install react-router react-router-dom"
+-Now install React Router and React Router DOM for client-side routing using command "npm install react-router react-router-dom"
