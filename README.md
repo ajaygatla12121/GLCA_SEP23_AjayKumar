@@ -1,6 +1,6 @@
 # Steps for Executing the application
 
-To Execute Backend code of the project, please follow these steps:
+i) To Execute Backend code of the project, please follow these steps:
 
 1. To execute the backend part of this application, we need to use the Spring Boot Framework project.
 2. The Spring Boot Framework is an open-source Java-based framework used for creating stand-alone, production-grade Spring-based applications.
