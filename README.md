@@ -18,5 +18,6 @@ b) To Execute the Frontend code of the project, please follow these steps:
 2. Open the terminal and navigate into the capestone project folder.
 3. Install axios for handling HTTP Requests using the command "npm install axios".
 4. Install React Router and React Router DOM for client-side routing using the command "npm install react-router react-router-dom".
-5. Run the application using the command "npm start".
-6. After running the command, the web page will be opened automatically.
+5. Also add the node_modules folder which is essential for running the application.
+6. Run the application using the command "npm start".
+7. After running the command, the web page will be opened automatically.
