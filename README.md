@@ -10,4 +10,4 @@ Frontend code Execution:
 -Now install axios for handling HTTP Requests using command "npm install axios"
 -Now install React Router and React Router DOM for client-side routing using command "npm install react-router react-router-dom"
 -Then Run the application by using the command "npm start"
--Then all the web page will be opened 
+-Then the web page will be opened 
