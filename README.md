@@ -10,7 +10,7 @@ a) To Execute Backend code of the project, please follow these steps:
 6. We can also use various tools such as Postman to test the application's RESTful web services and ensure that they are functioning as expected.
 
 
-To Execute the Frontend code of the project, please follow these steps:
+b) To Execute the Frontend code of the project, please follow these steps:
 
 1. Import the project to VS Code.
 2. Open the terminal and navigate into the capestone project folder.
